@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ПопыткаСделатьJar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ПопыткаСделатьJar/out/artifacts/Jar_jar/ПопыткаСделатьJar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
